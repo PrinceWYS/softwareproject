@@ -1,0 +1,25 @@
+.sear {
+    margin-top: 20px;
+    margin-left: 0;
+    height: 40px;
+    width: 500px;
+    /* margin-right: 40%; */
+}
+
+.navb {
+    width: 100%;
+}
+
+.navi {
+    margin-top: 15px;
+    font-size: 20px;
+    width: 100%;
+}
+
+.blan {
+    margin-left: 40%;
+}
+
+.sblan {
+    margin-left: 4%;
+}
