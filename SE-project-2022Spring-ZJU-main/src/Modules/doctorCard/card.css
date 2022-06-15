@@ -1,0 +1,26 @@
+.cards {
+    background-color: blanchedalmond;
+    width: 50%;
+    min-height: 150px;
+}
+
+.bott {
+    color: blue;
+    margin-top: 30%;
+    margin-left: 85%;
+}
+
+.bod {
+    min-height: 700px;
+    text-align: center;
+}
+
+.ti {
+    font-family: cursive;
+}
+
+.introimg {
+    margin-left: 10%;
+    width: 200px;
+    height: 200px;
+}

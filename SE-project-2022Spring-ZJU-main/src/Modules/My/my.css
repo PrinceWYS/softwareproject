@@ -1,0 +1,30 @@
+.tab {
+    width: 80%;
+    margin-left: 10%;
+    min-height: 800px;
+    text-align: center;
+}
+
+.textta {
+    font-size: 40px;
+}
+
+.adv {
+    margin-top: 0;
+    min-height: 250px;
+    width: 100%;
+}
+
+.tabin {
+    width: 100%;
+}
+
+.tababv {
+    height: 70px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.but {
+    margin-bottom: 30px;
+}
